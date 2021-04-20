@@ -1,0 +1,16 @@
+# rsschool-cv
+<h3>Babinovich Filip</h3>
+<h5>Contact Info:</h5>
+* Telephone number: +375 29 6340640
+
+* Email: feeldaphilb93@gmail.com
+		
+* Github: https://github.com/PhilB93
+<h5>Skills:</h5>
+* Java core
+
+* Kotlin
+
+* Code examples: https://github.com/PhilB93
+<h5>Education:</h5>
+* IT-Academy. Java core in 2021
