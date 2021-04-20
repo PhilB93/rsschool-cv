@@ -3,7 +3,7 @@
 <h5>Contact Info:</h5>
 * Telephone number: +375 29 6340640
 
-* Email: feeldaphilb93@gmail.com
+* Email: _feeldaphilb93@gmail.com_
 		
 * Github: https://github.com/PhilB93
 <h5>Skills:</h5>
