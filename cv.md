@@ -7,10 +7,10 @@
 		
 * Github: https://github.com/PhilB93
 <h5>Skills:</h5>
-* Java core
+* __Java core__
 
-* Kotlin
+* __Kotlin__
 
-* Code examples: https://github.com/PhilB93
+* __Code examples: https://github.com/PhilB93__
 <h5>Education:</h5>
 * IT-Academy. Java core in 2021
